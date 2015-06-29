@@ -1,0 +1,2 @@
+# TelebotGitignore
+Telebot NetBeans Gitignore
