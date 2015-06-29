@@ -1,4 +1,5 @@
-n/
+.gradle
+bin/
 tmp/
 *.tmp
 *.bak
